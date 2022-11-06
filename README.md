@@ -5,10 +5,10 @@ Industry : Health
 
 Project Title : Gym-Plus
 
-Problem Statement/Opportunity : 
+Problem Statement/Opportunity : Now a days many people are unaware of the benefits of the gym and suffering from many health problems. Therefore, I created a Gym website which gives people opportunity to know about the benefits of the gym and solve their health  problems.
 
 
-Project Description : 
+Project Description : I have craeted a gym website named Gym-Plus using html, css and javascript. It will help people to know about the gym benefits and also join the gym in easy manner. There are six pages in my website which are home, about, services, gallery, clients, contact. Home is the main page of the website and also the landing page which contains the logo and the motivational quotes and pictures. About page tells the brief description of the website. Services is page where a customer get to know about the services which they are going to get when they join the gym and many more information. Gallery page contains the pictures of the gym, trainer and trainee. Clients page describes our main clients whose life were changed by joining the gym  and their feedback. Contact page helps a customer to contact us if there is an query or for the joining the gym.
 
 ![microsoft](https://user-images.githubusercontent.com/103531241/200170114-007a982b-00b6-4b1f-b98b-ef6c9489f546.jpeg)
 ![Screenshot (48)](https://user-images.githubusercontent.com/103531241/200170118-5b5bcfd4-3915-400e-b414-968ad1e70f8d.png)
